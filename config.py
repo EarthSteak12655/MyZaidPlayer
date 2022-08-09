@@ -10,7 +10,7 @@ if os.path.exists("local.env"):
 load_dotenv()
 admins = {}
 SESSION_NAME = getenv("SESSION_NAME", "BQBelcTBbLhTl0wCoC5cbGHSrXtb0X_Cuk7hWEit5Q-likw3IR5hnLe45VemP_XcVszIN9hsZadmNN2lJU2uF1Z4BhES0h-Gmy7c_RxcNwIdRXuWISyU-G770PuMGoP_Eojv5jQdm0sal7_Er02zVmD7WfBWdpPIBnqKL4prqNtgrouUJ5AUc_C8zMrauZ1YTfsZq9oH64ctRGwxM6Bqy8uXHq_kKo5Wpfg9aAUwi4-9gWiG21FtA51Cj7QdmiNhAvuooHibXOZjFWYBagKHZxofkJZloeyRmfvaihWBLJILso65iF5GVm75ECsfIUZi8WUvICP2P3dWe-ob5or1XutiAAAAAUtXVycA")
-BOT_TOKEN = getenv("BOT_TOKEN", "5536017329:AAE50QV89YPmMLevNaxZ2mSXfpDKVTK_-7A")
+BOT_TOKEN = getenv("BOT_TOKEN", "5536017329:AAFUO2EaarjPVKEZbQTNohj9y4WewBTCP7g")
 BOT_NAME = getenv("BOT_NAME", "𝐀𝐩𝐩𝐥𝐞 𝐗 𝐌𝐮𝐬𝐢𝐜 🇮🇳")
 API_ID = int(getenv("API_ID", "14447155"))
 API_HASH = getenv("API_HASH", "ef370b85866716be28c348f5f96db1e4")
