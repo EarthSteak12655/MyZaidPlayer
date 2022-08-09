@@ -9,7 +9,7 @@ if os.path.exists("local.env"):
 
 load_dotenv()
 admins = {}
-SESSION_NAME = getenv("SESSION_NAME", "BQABi_mXw2-uMUIyRn_po6vTP-u4mVPSDsQwJDzR3kDf-qioCysb17i3xey0WsLHkyb8lkcD4dL-02UpfBsxelPfLrxGnEv8XSgLlKlLba3qZeMFwk-IsQ_Xgf13pOUirRYJX0S4LurkGYZ6yHjvic6Nd72JviFdoNpsrzKFlLmdehvX_JiMU5om83Utsp8HoGg0w8Pzm3cfENIdvS4rrUosg-vulpLlQK82uPFzW4s-bX-RWrDMB892DYk2DmSjEH-gILIj3V9nfuW80BCDzPn7qi63rtBeMhpVOO7itUYqrUtoIiqXiNQbL8_yzc3MiCIHmV8pViqViKxP8M70wKOaAAAAAUtXVycA")
+SESSION_NAME = getenv("SESSION_NAME", "BQBelcTBbLhTl0wCoC5cbGHSrXtb0X_Cuk7hWEit5Q-likw3IR5hnLe45VemP_XcVszIN9hsZadmNN2lJU2uF1Z4BhES0h-Gmy7c_RxcNwIdRXuWISyU-G770PuMGoP_Eojv5jQdm0sal7_Er02zVmD7WfBWdpPIBnqKL4prqNtgrouUJ5AUc_C8zMrauZ1YTfsZq9oH64ctRGwxM6Bqy8uXHq_kKo5Wpfg9aAUwi4-9gWiG21FtA51Cj7QdmiNhAvuooHibXOZjFWYBagKHZxofkJZloeyRmfvaihWBLJILso65iF5GVm75ECsfIUZi8WUvICP2P3dWe-ob5or1XutiAAAAAUtXVycA")
 BOT_TOKEN = getenv("BOT_TOKEN", "5536017329:AAE50QV89YPmMLevNaxZ2mSXfpDKVTK_-7A")
 BOT_NAME = getenv("BOT_NAME", "𝐀𝐩𝐩𝐥𝐞 𝐗 𝐌𝐮𝐬𝐢𝐜 🇮🇳")
 API_ID = int(getenv("API_ID", "14447155"))
@@ -19,7 +19,7 @@ OWNER_USERNAME = getenv("OWNER_USERNAME", "Am_TrickyYash")
 ALIVE_NAME = getenv("ALIVE_NAME", "[ 🇮🇳 ] 𝗧.𝗬 𝗢𝗪𝗡𝗘𝗥")
 BOT_USERNAME = getenv("BOT_USERNAME", "AppleXMusic_Bot")
 OWNER_ID = getenv("OWNER_ID", "5442143084")
-ASSISTANT_NAME = getenv("ASSISTANT_NAME", "AppleXMusicAssistant_Bot")
+ASSISTANT_NAME = getenv("ASSISTANT_NAME", "AppleXMusic_Assistant")
 GROUP_SUPPORT = getenv("GROUP_SUPPORT", "TeamTrickyYash")
 UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "TrickyYash")
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
