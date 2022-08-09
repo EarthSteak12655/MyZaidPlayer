@@ -9,7 +9,7 @@ if os.path.exists("local.env"):
 
 load_dotenv()
 admins = {}
-SESSION_NAME = getenv("SESSION_NAME", "BQAAMNteGrECz56LXDn2At1LAXEdsze_T16URkoFJc5swlshWLgqyG9mzUDZ6cZpi8lg7WoD2RbAqX9gpV2HoWHdHIc0Y3aI7NXmLRDQFloWTFxz-iD5DtDo1yJyWX9-n59cg8M_hXKPxDMdMG2n70dCKsS5MdyYH8-qa2gejvC-IbPLjBT80dq-Gt_E_2QthBprNR09NkdSWTfvKklqFEqqa8v8HQcOuzQKcahPDNbtXcgvHuccntMdUc5NvpXIbvfdFeKJV8-Gg8elwBfQZ0An5bxy4njKh54wLh7BCMXWf1QgwAXYFnj9cfWetjrBk0l-rupwUtwH9YZVKD7__u0JAAAAAT_gq8AA")
+SESSION_NAME = getenv("SESSION_NAME", "BQABi_mXw2-uMUIyRn_po6vTP-u4mVPSDsQwJDzR3kDf-qioCysb17i3xey0WsLHkyb8lkcD4dL-02UpfBsxelPfLrxGnEv8XSgLlKlLba3qZeMFwk-IsQ_Xgf13pOUirRYJX0S4LurkGYZ6yHjvic6Nd72JviFdoNpsrzKFlLmdehvX_JiMU5om83Utsp8HoGg0w8Pzm3cfENIdvS4rrUosg-vulpLlQK82uPFzW4s-bX-RWrDMB892DYk2DmSjEH-gILIj3V9nfuW80BCDzPn7qi63rtBeMhpVOO7itUYqrUtoIiqXiNQbL8_yzc3MiCIHmV8pViqViKxP8M70wKOaAAAAAUtXVycA")
 BOT_TOKEN = getenv("BOT_TOKEN", "5536017329:AAE50QV89YPmMLevNaxZ2mSXfpDKVTK_-7A")
 BOT_NAME = getenv("BOT_NAME", "𝐀𝐩𝐩𝐥𝐞 𝐗 𝐌𝐮𝐬𝐢𝐜 🇮🇳")
 API_ID = int(getenv("API_ID", "14447155"))
